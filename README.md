@@ -477,12 +477,13 @@ harshvardhan_patil:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=12,16,20,24,30&text=Thanks%20for%20visiting&fontSize=28&fontColor=ffffff&fontAlignY=72&desc=Building%20reliable%20software,%20one%20commit%20at%20a%20time&descAlignY=92&descSize=14&animation=fadeIn" alt="footer" />
 
 </div> -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,16,20,24,30&text=Harshvardhan%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js%20%7C%20Cloud-Native%20Systems&descAlignY=55&descSize=18&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,16,20,24,30&text=Harshvardhan%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js%20%7C%20Cloud-Native%20Systems&descAlignY=55&descSize=18&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" alt="header" />
 
 <a href="https://github.com/HarshvardhanPatil4700">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+3%2B+Years+of+Engineering+Experience;Designing+Scalable+Spring+Boot+Microservices;Building+Production-Grade+REST+APIs+at+Enterprise+Scale;React.js+%2B+Tailwind+Front-Ends+Engineered+for+Performance;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Test-Driven+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer+%7C+3%2B+Years+of+Engineering+Experience;Designing+Scalable+Spring+Boot+Microservices;Building+Production-Grade+REST+APIs+at+Enterprise+Scale;React.js+%2B+Tailwind+Front-Ends+Engineered+for+Performance;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Test-Driven+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -526,15 +527,15 @@ harshvardhan_patil:
 
 <br/>
 
-I am a **Full Stack Developer** with **3+ years of professional engineering experience** designing, building, and operating production systems end to end. My work centers on **Spring Boot backends**, **RESTful API architecture**, and **React.js interfaces** that are engineered for correctness, latency, and long-term maintainability rather than short-term delivery.
+I am a **Java Full Stack Developer** specializing in **Spring Boot**, **RESTful APIs**, **React.js**, and modern web application development. I focus on building scalable backend services, responsive frontend interfaces, secure APIs, and maintainable full-stack applications using Java-based technologies.
 
-**Software Engineering.** I build backends the way they are meant to last — layered architecture, clear domain boundaries, dependency inversion, and SOLID principles applied deliberately. My Spring Boot services use **Spring MVC** for transport, **Spring Data JPA / Hibernate** for persistence, and **Spring Security** for authentication and authorization, with schema migrations, connection pooling, and query tuning treated as first-class engineering concerns rather than afterthoughts.
+**Software Engineering.** I build backend applications using **Java**, **Spring Boot**, **Spring MVC**, **Spring Data JPA**, **Hibernate**, and **Spring Security**. My development approach emphasizes clean architecture, object-oriented programming, SOLID principles, REST API design, database optimization, validation, exception handling, and maintainable code.
 
-**AI / ML Expertise.** I apply machine learning where it produces measurable product value — resume-to-job relevance ranking, candidate–role semantic matching, anomaly detection over transactional data, and predictive expense categorization. My focus is the engineering layer around models: feature pipelines, inference APIs exposed as versioned REST endpoints, latency budgets, fallback paths, and reproducible evaluation.
+**Full Stack Development.** On the frontend, I build applications using **React.js**, modern **JavaScript (ES6+)**, HTML, CSS, and **Tailwind CSS**. I work across the complete application lifecycle — from responsive user interfaces and API integration to backend business logic, database operations, authentication, and deployment workflows.
 
-**Full Stack Development.** On the client, I build **React.js** applications with modern **JavaScript (ES6+)**, component-driven architecture, predictable state management, and **Tailwind CSS** design systems. I own the full request lifecycle — from a click in the browser, through an authenticated REST call, into the service layer, down to an indexed **MySQL** or **PostgreSQL** query, and back.
+**Database & Backend Engineering.** I work with **MySQL** and **PostgreSQL** for relational data management and use **JPA/Hibernate** for persistence. I focus on designing efficient database schemas, writing optimized queries, implementing CRUD operations, and developing reliable RESTful services.
 
-**Product Engineering Mindset.** I optimize for outcomes, not output. That means instrumenting what matters, reducing p95 latency instead of chasing averages, writing tests that encode real business rules, automating releases through **GitHub Actions**, and documenting decisions so the next engineer moves faster than I did.
+**Modern Development.** I am continuously expanding my expertise in **Microservices, Apache Kafka, Spring Cloud, Docker, CI/CD, GitHub Actions, cloud-native development, and system design** to build scalable and production-ready Java applications.
 
 <br/>
 
@@ -544,7 +545,7 @@ I am a **Full Stack Developer** with **3+ years of professional engineering expe
 
 <img src="https://img.shields.io/badge/Full%20Time%20Roles-Available-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Full Time" />
 <img src="https://img.shields.io/badge/Backend%20Engineering-Spring%20Boot-6366F1?style=for-the-badge&labelColor=0D1117" alt="Backend" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Engineering-Java%20%2B%20React-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Full Stack" />
+<img src="https://img.shields.io/badge/Java%20Full%20Stack-Java%20%2B%20React-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Java Full Stack" />
 <br/>
 <img src="https://img.shields.io/badge/Open%20Source-Contributions-4C1D95?style=for-the-badge&labelColor=0D1117" alt="OSS" />
 <img src="https://img.shields.io/badge/Technical%20Collaboration-Welcome-5B21B6?style=for-the-badge&labelColor=0D1117" alt="Collaboration" />
@@ -598,6 +599,8 @@ I am a **Full Stack Developer** with **3+ years of professional engineering expe
 <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Microservices-0D1117?style=flat-square&logo=spring&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=A78BFA" />
 
 </div>
 
@@ -609,15 +612,11 @@ I am a **Full Stack Developer** with **3+ years of professional engineering expe
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Applied Machine Learning** | ![Advanced](https://img.shields.io/badge/Advanced-7C3AED?style=flat-square&labelColor=0D1117) | Supervised learning for classification and ranking problems embedded in product workflows — candidate–role matching, expense categorization, and priority prediction |
-| **ML-Backed REST Services** | ![Advanced](https://img.shields.io/badge/Advanced-7C3AED?style=flat-square&labelColor=0D1117) | Exposing inference through versioned Spring Boot endpoints with timeouts, circuit-breaking, deterministic fallbacks, and strict latency budgets |
-| **Recommendation & Ranking** | ![Proficient](https://img.shields.io/badge/Proficient-6366F1?style=flat-square&labelColor=0D1117) | Relevance scoring for job recommendations using weighted feature blending of skills, experience, and semantic similarity signals |
-| **NLP & Text Processing** | ![Proficient](https://img.shields.io/badge/Proficient-6366F1?style=flat-square&labelColor=0D1117) | Resume parsing, skill extraction, normalization pipelines, TF-IDF and embedding-based similarity for search and matching |
-| **Anomaly Detection** | ![Proficient](https://img.shields.io/badge/Proficient-6366F1?style=flat-square&labelColor=0D1117) | Statistical and model-driven outlier detection over transactional expense data with configurable sensitivity thresholds |
-| **Data Engineering Pipelines** | ![Proficient](https://img.shields.io/badge/Proficient-6366F1?style=flat-square&labelColor=0D1117) | Ingestion, cleaning, feature derivation, and batch scoring jobs backed by MySQL and PostgreSQL with reproducible transformation steps |
-| **Model Evaluation & Metrics** | ![Proficient](https://img.shields.io/badge/Proficient-6366F1?style=flat-square&labelColor=0D1117) | Precision, recall, F1, ROC-AUC, confusion-matrix analysis, stratified splits, and guarding against leakage and class imbalance |
-| **Data Analytics & Insight** | ![Working](https://img.shields.io/badge/Working-8B5CF6?style=flat-square&labelColor=0D1117) | Exploratory analysis, cohort and trend reporting, and translating raw datasets into decision-ready business narratives |
-| **MLOps Fundamentals** | ![Working](https://img.shields.io/badge/Working-8B5CF6?style=flat-square&labelColor=0D1117) | Artifact versioning, reproducible builds via Maven, containerized delivery, and automated validation gates in GitHub Actions |
+| **Applied Machine Learning** | ![Working](https://img.shields.io/badge/Working-7C3AED?style=flat-square&labelColor=0D1117) | Applying machine learning concepts to practical product and data-driven applications |
+| **NLP & Text Processing** | ![Working](https://img.shields.io/badge/Working-6366F1?style=flat-square&labelColor=0D1117) | Resume parsing, text processing, skill extraction, and semantic matching concepts |
+| **Recommendation & Ranking** | ![Working](https://img.shields.io/badge/Working-6366F1?style=flat-square&labelColor=0D1117) | Candidate-job matching and relevance-based ranking concepts |
+| **Data Analytics & Insight** | ![Working](https://img.shields.io/badge/Working-8B5CF6?style=flat-square&labelColor=0D1117) | Exploratory analysis, data interpretation, and extracting insights from datasets |
+| **ML-Backed REST Services** | ![Working](https://img.shields.io/badge/Working-8B5CF6?style=flat-square&labelColor=0D1117) | Exploring integration of intelligent features with backend REST APIs |
 
 </div>
 
@@ -628,84 +627,74 @@ I am a **Full Stack Developer** with **3+ years of professional engineering expe
 <br/>
 
 <details>
-<summary><b>◈ &nbsp;Job Portal & Recruitment System</b> &nbsp;—&nbsp; <i>Multi-tenant hiring platform with intelligent candidate matching</i></summary>
+<summary><b>◈ &nbsp;Job Portal & Recruitment System</b> &nbsp;—&nbsp; <i>Full-stack recruitment platform</i></summary>
 
 <br/>
 
-A full-scale recruitment platform serving three distinct actors — candidates, recruiters, and administrators — on a single role-segregated Spring Boot backend. The system handles the complete hiring lifecycle: job publication, resume ingestion, application tracking, interview scheduling, and offer status transitions, with a relevance engine that ranks candidates against role requirements instead of returning unordered result sets.
+A full-stack recruitment platform designed for candidates, recruiters, and administrators. The application manages job listings, candidate applications, resume information, recruitment workflows, and role-based access through a Java and Spring Boot backend with a React.js frontend.
 
 <br/>
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Stack** | Java 17 · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · Hibernate · REST APIs · React.js · JavaScript ES6+ · Tailwind CSS · MySQL · Maven · GitHub Actions |
-| **Scale** | 40+ REST endpoints across 6 bounded modules · 18 normalized relational entities · multi-role access model · paginated search over 10K+ seeded job and application records |
-| **Performance** | Composite indexing and query projection reduced listing latency from ~820ms to **~110ms p95** · N+1 queries eliminated via fetch-join strategies · HikariCP pool tuning sustained **300+ concurrent sessions** in load testing |
-| **Security** | JWT-based stateless authentication · BCrypt password hashing · method-level `@PreAuthorize` role enforcement · server-side validation on every mutation · file-type and size gating on resume upload · CORS allow-listing |
-| **Impact** | Reduced recruiter shortlisting effort by **~65%** through ranked candidate matching · unified fragmented hiring steps into a single auditable pipeline · cut average time-to-shortlist from days to hours |
-| **Repository** | [![Repository](https://img.shields.io/badge/View%20Source-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/HarshvardhanPatil4700) |
+| **Stack** | Java · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · Hibernate · REST APIs · React.js · JavaScript · Tailwind CSS · MySQL · Maven |
+| **Backend** | RESTful APIs · CRUD operations · authentication · authorization · validation · exception handling |
+| **Frontend** | React.js · reusable components · responsive UI · API integration · Tailwind CSS |
+| **Database** | MySQL · relational data modeling · JPA/Hibernate persistence |
+| **Focus** | Recruitment workflow · candidate management · job management · role-based access |
 
 <br/>
 
-**Engineering Narrative.** The core challenge was matching quality. Naive keyword filtering produced high recall and unusable precision, so I built a weighted scoring layer that blends normalized skill overlap, experience-band proximity, and textual similarity between parsed resumes and job descriptions. Resume parsing normalizes skill tokens against a controlled vocabulary before scoring, which removed most false negatives caused by spelling and phrasing drift.
-
-Architecturally the application is layered strictly — controllers stay thin and transport-only, services own transactional business rules, and repositories expose intent-revealing query methods. DTOs isolate the API contract from the persistence model, so schema evolution never leaks into client code. The React front end consumes the API through a typed request layer with centralized error handling, optimistic UI updates on application submission, and skeleton states that keep perceived latency low. Every merge to `main` runs unit and integration suites through GitHub Actions before an artifact is produced.
+**Engineering Narrative.** The application follows a layered architecture where controllers handle HTTP requests, services contain business logic, and repositories manage persistence. DTOs are used to separate API contracts from persistence entities, while Spring Security provides authentication and authorization.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>◈ &nbsp;Task Management REST API</b> &nbsp;—&nbsp; <i>Production-grade API service with contract-first design</i></summary>
+<summary><b>◈ &nbsp;Task Management REST API</b> &nbsp;—&nbsp; <i>Java Spring Boot backend application</i></summary>
 
 <br/>
 
-A backend-focused, API-first task management service built to enterprise standards. The project exists to demonstrate what a correct REST service looks like end to end: predictable resource semantics, a consistent error envelope, transactional integrity under concurrent writes, and a test and documentation discipline that lets any consumer integrate without asking questions.
+A backend-focused task management REST API developed using Java and Spring Boot. The application demonstrates RESTful API design, CRUD operations, validation, database persistence, exception handling, and API testing.
 
 <br/>
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Stack** | Java 17 · Spring Boot · Spring MVC · Spring Data JPA · Hibernate · REST APIs · MySQL · Maven · Postman · JUnit 5 · Mockito · GitHub Actions |
-| **Scale** | 28 REST endpoints across task, project, label, and user resources · nested sub-task hierarchies · filtering, sorting, and cursor-aware pagination · bulk state-transition operations |
-| **Performance** | Sub-**90ms p95** on filtered task retrieval · batch inserts via JDBC batching reduced bulk-import time by **~70%** · second-level caching on reference data cut repeat lookups by **~40%** |
-| **Security** | Stateless JWT authentication · ownership checks enforced at the service layer, never the controller · Bean Validation on all inbound payloads · parameterized queries throughout · rate-limited authentication endpoints |
-| **Impact** | 85%+ line coverage across unit and integration tests · fully executable Postman collection with environment chaining · zero-ambiguity API contract consumed by two independent front-end clients |
-| **Repository** | [![Repository](https://img.shields.io/badge/View%20Source-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/HarshvardhanPatil4700) |
+| **Stack** | Java · Spring Boot · Spring MVC · Spring Data JPA · Hibernate · REST APIs · MySQL · Maven · Postman |
+| **Features** | CRUD operations · validation · exception handling · database persistence · REST endpoints |
+| **Architecture** | Controller · Service · Repository · Entity · DTO |
+| **Testing** | Postman API testing · validation testing · CRUD verification |
 
 <br/>
 
-**Engineering Narrative.** I treated the HTTP contract as the product. Resources are nouns, verbs map to semantics rather than convention-by-accident, and every failure returns the same structured error body with a machine-readable code, human message, and field-level detail — produced by a single `@RestControllerAdvice` so no handler invents its own format.
-
-Concurrency was the hardest correctness problem. Simultaneous status transitions on shared tasks caused lost updates until I introduced JPA optimistic locking with version columns and surfaced conflicts as explicit `409` responses instead of silently overwriting. Hibernate's dirty-checking behavior under detached entities was another source of subtle bugs, resolved by tightening transaction boundaries to the service layer and keeping entities managed within them. Integration tests run against a real database rather than mocks, so migrations, constraints, and cascade behavior are verified rather than assumed.
+**Engineering Narrative.** The project focuses on developing maintainable REST APIs using Spring Boot. Business logic is separated into service classes while Spring Data JPA manages database persistence. Centralized exception handling provides consistent API error responses.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>◈ &nbsp;Expense Tracker</b> &nbsp;—&nbsp; <i>Personal finance platform with analytics and anomaly detection</i></summary>
+<summary><b>◈ &nbsp;Expense Tracker</b> &nbsp;—&nbsp; <i>Full-stack expense management application</i></summary>
 
 <br/>
 
-A full stack personal finance application that turns raw transaction logs into decisions. Beyond CRUD, it performs automatic categorization, budget-threshold monitoring, recurring-expense detection, and period-over-period trend analysis — surfaced through a React dashboard designed to answer "where is my money actually going" in a single glance.
+A full-stack expense tracking application for managing personal expenses, categories, and financial summaries. The application provides CRUD functionality and an interactive frontend for organizing and reviewing expenses.
 
 <br/>
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Stack** | Java 17 · Spring Boot · Spring Data JPA · Hibernate · REST APIs · React.js · JavaScript ES6+ · Tailwind CSS · MySQL · Maven · GitHub Actions |
-| **Scale** | 25+ REST endpoints · 11 relational entities with category and budget hierarchies · aggregation over 50K+ transaction rows · multi-currency-ready monetary modeling |
-| **Performance** | Server-side aggregation replaced client computation, cutting dashboard render from ~2.4s to **~340ms** · covering indexes on `(user_id, transaction_date, category_id)` brought monthly rollups to **~65ms** · memoized React selectors removed redundant re-renders |
-| **Security** | JWT authentication with refresh-token rotation · strict per-user data isolation enforced at the repository layer · `BigDecimal` monetary precision with no floating-point arithmetic · audited mutation trail on every financial record |
-| **Impact** | Automatic categorization achieved **~88% accuracy**, removing most manual tagging · anomaly alerts surfaced unusual spending within the same billing cycle · users gained a single source of truth across accounts |
-| **Repository** | [![Repository](https://img.shields.io/badge/View%20Source-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/HarshvardhanPatil4700) |
+| **Stack** | React.js · JavaScript · HTML · CSS · Node.js · Express.js · MongoDB |
+| **Features** | Add expenses · update expenses · delete expenses · expense categories · totals · balance summaries |
+| **Frontend** | React.js · responsive UI · component-based architecture |
+| **Backend** | Node.js · Express.js · REST APIs |
+| **Database** | MongoDB |
 
 <br/>
 
-**Engineering Narrative.** Financial software has no tolerance for approximation. Every monetary value is modeled as `BigDecimal` with explicit scale and rounding mode, persisted as `DECIMAL`, and never touched by `double` at any layer — a constraint enforced from the entity through the DTO to the JSON serializer.
-
-The categorization engine combines deterministic merchant-pattern rules with a similarity-based classifier trained on historical user corrections, so accuracy improves as the user confirms or overrides suggestions. Anomaly detection applies rolling statistical baselines per category and flags transactions that deviate beyond a configurable threshold, with sensitivity tuned to keep alerts meaningful rather than constant. On the front end, Tailwind drives a consistent dark-themed design system, and all analytics render from pre-aggregated API responses so the browser never becomes the computation layer.
+**Engineering Narrative.** The project demonstrates full-stack development by connecting a React.js frontend with an Express.js backend and MongoDB database. The application supports complete expense CRUD functionality and category-based expense organization.
 
 </details>
 
@@ -715,25 +704,26 @@ The categorization engine combines deterministic merchant-pattern rules with a s
 
 <br/>
 
-### Full Stack Developer
+### Java Full Stack Developer
 
-**Software Engineering · Product Development Team**
+**Software Engineering · Full Stack Development**
+
 `2023 — Present`
 
-Own backend architecture and full stack delivery for enterprise web applications built on Spring Boot and React.js. Responsible for API design, data modeling, performance engineering, and release automation across multiple production services, working directly with product stakeholders to convert ambiguous requirements into shipped, measurable functionality.
+Focused on developing full-stack web applications using Java, Spring Boot, REST APIs, React.js, and relational databases. Responsibilities include backend API development, frontend integration, database management, application debugging, testing, and implementing maintainable software solutions.
 
 **Scope of Work**
 
-- Architected and delivered **60+ production REST endpoints** across multiple Spring Boot services using layered architecture, DTO isolation, and centralized exception handling
-- Designed normalized relational schemas in **MySQL** and **PostgreSQL**, authored migration scripts, and tuned indexes to sustain low-latency reads under growing data volume
-- Reduced critical-path API latency by **up to 85%** through query projection, fetch-join tuning, N+1 elimination, connection-pool sizing, and targeted caching
-- Implemented stateless **JWT authentication** with role-based authorization, ownership enforcement at the service layer, and end-to-end input validation
-- Built responsive **React.js** front ends with **Tailwind CSS** design systems, component-driven architecture, and centralized API and error-handling layers
-- Established **GitHub Actions CI/CD** pipelines running build, unit, and integration stages on every pull request, cutting manual release effort and regression escapes
-- Raised automated test coverage above **85%** using JUnit 5, Mockito, and database-backed integration tests validating real constraints and cascades
-- Authored and maintained **Postman** collections with environment chaining, serving as the executable contract for front-end and third-party consumers
-- Led code reviews and mentored junior developers on SOLID principles, transaction boundaries, Hibernate lifecycle behavior, and defensive API design
-- Partnered with product and QA to define acceptance criteria, instrument key flows, and prioritize work by measured user and business impact
+- Developed RESTful APIs using **Java and Spring Boot**
+- Implemented backend business logic using **Spring MVC, Spring Data JPA, and Hibernate**
+- Designed and integrated relational databases using **MySQL and PostgreSQL**
+- Built responsive frontend interfaces using **React.js, JavaScript, HTML, CSS, and Tailwind CSS**
+- Implemented CRUD operations, validation, exception handling, and API integration
+- Worked with **REST API design and Postman** for API testing
+- Used **Git and GitHub** for source-code management and collaboration
+- Explored **Microservices, Apache Kafka, Spring Cloud, Docker, and CI/CD**
+- Applied **OOP, SOLID principles, DSA, and clean coding practices**
+- Worked on full-stack application development from frontend interface to backend services and database persistence
 
 **Skills**
 
@@ -750,7 +740,8 @@ Own backend architecture and full stack delivery for enterprise web applications
 <img src="https://img.shields.io/badge/Maven-0D1117?style=flat-square&logo=apachemaven&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/System%20Design-0D1117?style=flat-square&logo=apachespark&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Microservices-0D1117?style=flat-square&logo=spring&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=A78BFA" />
 
 ---
 
@@ -760,15 +751,12 @@ Own backend architecture and full stack delivery for enterprise web applications
 
 | Recognition | Details |
 | :--- | :--- |
-| **85% Latency Reduction** | Re-engineered critical read paths across production Spring Boot services through indexing strategy, query projection, and N+1 elimination — p95 response times cut from ~820ms to ~110ms |
-| **60+ Production Endpoints Delivered** | Designed and shipped REST APIs across multiple enterprise applications with a consistent contract, unified error envelope, and zero breaking changes to existing consumers |
-| **85%+ Automated Test Coverage** | Established a testing standard combining JUnit 5 unit tests with database-backed integration suites, materially reducing regression escapes into production |
-| **CI/CD Pipeline Ownership** | Built GitHub Actions workflows automating build, test, and artifact stages on every pull request, removing manual release steps and shortening the deploy cycle |
-| **88% Categorization Accuracy** | Delivered an automatic expense classification engine blending deterministic rules with a learning layer, eliminating the majority of manual transaction tagging |
-| **65% Recruiter Effort Reduction** | Built a weighted candidate–role relevance engine that replaced unordered keyword search with ranked shortlists in a production recruitment platform |
-| **300+ Concurrent Sessions Sustained** | Validated backend stability under sustained load through connection-pool tuning, transaction-boundary correctness, and optimistic locking for concurrent writes |
-| **Technical Mentorship** | Led code reviews and mentored junior engineers on SOLID design, Hibernate lifecycle semantics, transaction management, and defensive API construction |
-| **DSA Proficiency** | Completed advanced Data Structures & Algorithms training in Java with consistent problem-solving practice across arrays, graphs, trees, and dynamic programming |
+| **Full Stack Development** | Built full-stack applications integrating React.js frontends with Java/Spring Boot and Node.js backends |
+| **Spring Boot Development** | Developed REST APIs using Spring Boot, Spring MVC, Spring Data JPA, and Hibernate |
+| **REST API Development** | Designed and tested RESTful CRUD APIs with validation and exception handling |
+| **Database Integration** | Worked with MySQL, PostgreSQL, and MongoDB for application data management |
+| **DSA Practice** | Completed Data Structures & Algorithms training in Java with regular problem-solving practice |
+| **Data Analytics** | Completed the Deloitte Australia Data Analytics Job Simulation through Forage |
 
 </div>
 
@@ -783,7 +771,9 @@ Own backend architecture and full stack delivery for enterprise web applications
 <a href="https://github.com/HarshvardhanPatil4700">
   <img src="https://img.shields.io/badge/Spring%20Boot%204,%20Spring%207%20%26%20Hibernate%20for%20Beginners-Chad%20Darby-7C3AED?style=for-the-badge&labelColor=0D1117&logo=springboot&logoColor=A78BFA" alt="Spring Boot" />
 </a>
+
 <br/>
+
 <a href="https://github.com/HarshvardhanPatil4700">
   <img src="https://img.shields.io/badge/The%20Complete%20JavaScript%20Course%202025-Udemy-6366F1?style=for-the-badge&labelColor=0D1117&logo=javascript&logoColor=A78BFA" alt="JavaScript" />
 </a>
@@ -806,7 +796,7 @@ Own backend architecture and full stack delivery for enterprise web applications
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Focus%20Areas-Backend%20%C2%B7%20Full%20Stack%20%C2%B7%20DSA%20%C2%B7%20Analytics-5B21B6?style=flat-square&labelColor=0D1117" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus%20Areas-Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Full%20Stack%20%C2%B7%20DSA%20%C2%B7%20Analytics-5B21B6?style=flat-square&labelColor=0D1117" alt="Focus" />
 
 </div>
 
@@ -835,6 +825,7 @@ Own backend architecture and full stack delivery for enterprise web applications
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshvardhanPatil4700&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7C3AED&ring_color=8B5CF6" alt="GitHub Stats" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshvardhanPatil4700&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 
 <br/><br/>
@@ -883,39 +874,56 @@ Own backend architecture and full stack delivery for enterprise web applications
 
 ```yaml
 harshvardhan_patil:
-  role: "Full Stack Developer"
-  experience: "3+ years"
+  role: "Java Full Stack Developer"
   location: "Kolhapur, Maharashtra, India"
+
+  primary_stack:
+    - "Java"
+    - "Spring Boot"
+    - "Spring MVC"
+    - "Spring Data JPA"
+    - "Hibernate"
+    - "REST APIs"
+    - "React.js"
+    - "JavaScript"
+    - "MySQL"
+    - "PostgreSQL"
 
   learning:
     - "Spring Cloud — service discovery, config server, API gateway"
-    - "Microservices decomposition and distributed transaction patterns"
-    - "Kubernetes orchestration and container-native deployment"
-    - "Advanced system design — caching layers, sharding, event-driven flows"
-    - "Apache Kafka for asynchronous, high-throughput messaging"
+    - "Microservices architecture"
+    - "Apache Kafka for asynchronous messaging"
+    - "Docker and containerization"
+    - "Kubernetes fundamentals"
+    - "Advanced system design"
+    - "Cloud-native application development"
 
   building:
-    - "Scalable Spring Boot services with clean, layered architecture"
-    - "Production REST APIs with strict contracts and unified error handling"
-    - "React.js interfaces backed by Tailwind CSS design systems"
+    - "Scalable Spring Boot applications"
+    - "Production-ready REST APIs"
+    - "React.js full-stack applications"
+    - "Database-driven web applications"
     - "Automated CI/CD pipelines using GitHub Actions"
-    - "ML-assisted product features exposed through versioned endpoints"
 
   exploring:
-    - "Reactive programming with Spring WebFlux and Project Reactor"
-    - "Observability — structured logging, metrics, distributed tracing"
-    - "Database internals, query planning, and index strategy"
-    - "GraphQL as a complement to REST for client-driven queries"
-    - "Applied machine learning within enterprise Java systems"
+    - "Spring WebFlux and Project Reactor"
+    - "Observability and distributed tracing"
+    - "GraphQL"
+    - "Advanced database optimization"
+    - "AI-powered features in Java applications"
 
   open_to:
-    - "Full-time Backend and Full Stack Engineering roles"
-    - "Enterprise Java and Spring Boot product teams"
-    - "Open source contribution and collaboration"
-    - "Technical mentorship and code review partnerships"
+    - "Java Full Stack Developer roles"
+    - "Java Developer roles"
+    - "Spring Boot Developer roles"
+    - "Backend Developer roles"
+    - "Full Stack Developer roles"
+    - "Software Engineering internships and opportunities"
 
   engineering_principles:
-    - "Correctness before cleverness"
-    - "Measure before optimizing"
-    - "Tests encode business rules, not implementation details"
-    - "Readable code outlives clever code"
+    - "Clean and maintainable code"
+    - "SOLID principles"
+    - "Object-oriented design"
+    - "API-first development"
+    - "Test-driven development"
+    - "Continuous learning"
