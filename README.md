@@ -928,7 +928,7 @@ harshvardhan_patil:
     - "Test-driven development"
     - "Continuous learning" -->
 
-    <div align="center">
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,16,20,24,30&text=Harshvardhan%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js%20%7C%20B.E.%20Computer%20Engineering&descAlignY=55&descSize=18&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" alt="header" />
 
