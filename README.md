@@ -478,7 +478,7 @@ harshvardhan_patil:
 
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,16,20,24,30&text=Harshvardhan%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js%20%7C%20Cloud-Native%20Systems&descAlignY=55&descSize=18&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" alt="header" />
 
@@ -926,4 +926,432 @@ harshvardhan_patil:
     - "Object-oriented design"
     - "API-first development"
     - "Test-driven development"
+    - "Continuous learning" -->
+
+    <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,16,20,24,30&text=Harshvardhan%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js%20%7C%20B.E.%20Computer%20Engineering&descAlignY=55&descSize=18&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" alt="header" />
+
+<a href="https://github.com/HarshvardhanPatil4700">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer+%7C+B.E.+Computer+Engineering+%2727;Building+REST+APIs+with+Spring+Boot+%26+Hibernate;React.js+Front-Ends+with+Tailwind+CSS;Strong+Foundation+in+DSA+%E2%80%A2+OOP+%E2%80%A2+DBMS+%E2%80%A2+CN;Web+Development+Intern+%40+DevineTech+Solutions" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-CGPA%209.086-7C3AED?style=for-the-badge&labelColor=0D1117&logo=graduation-cap&logoColor=A78BFA" alt="Academic" />
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Java-6366F1?style=for-the-badge&labelColor=0D1117&logo=leetcode&logoColor=A78BFA" alt="DSA" />
+<img src="https://img.shields.io/badge/Web%20Development%20Intern-DevineTech%20Solutions-8B5CF6?style=for-the-badge&labelColor=0D1117&logo=apachespark&logoColor=A78BFA" alt="Internship" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pune,%20Maharashtra,%20India-4C1D95?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=A78BFA" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20to%20Relocate-Yes-4C1D95?style=for-the-badge&labelColor=0D1117&logo=airplayaudio&logoColor=A78BFA" alt="Relocate" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/harshvardhan-patil-72755635b/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-6366F1?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
+</a>
+<a href="mailto:harshpatil4700@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-REACH%20OUT-8B5CF6?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=A78BFA" alt="Email" />
+</a>
+<a href="https://github.com/HarshvardhanPatil4700">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-4C1D95?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=A78BFA" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=HarshvardhanPatil4700&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/HarshvardhanPatil4700?label=FOLLOWERS&style=for-the-badge&color=6366F1&labelColor=0D1117&logo=github&logoColor=A78BFA" alt="Followers" />
+<img src="https://img.shields.io/github/stars/HarshvardhanPatil4700?label=TOTAL%20STARS&style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github&logoColor=A78BFA" alt="Stars" />
+
+</div>
+
+---
+
+<h2 align="center">◆ About</h2>
+
+<div align="center">
+<img src="https://img.shields.io/badge/-%20Engineering%20Profile%20-0D1117?style=flat-square&labelColor=7C3AED" alt="divider" />
+</div>
+
+<br/>
+
+I am a **Java Full Stack Developer** and final-year **B.E. Computer Engineering** student (CGPA 9.086) specializing in **Spring Boot**, **RESTful APIs**, **React.js**, and modern web application development. I focus on building secure backend services, responsive frontend interfaces, and maintainable full-stack applications using Java-based technologies.
+
+**Software Engineering.** I build backend applications using **Java**, **Spring Boot**, **Spring MVC**, **Spring Data JPA**, and **Hibernate**. My development approach emphasizes clean architecture, object-oriented programming, REST API design, database optimization, validation, exception handling, and maintainable code.
+
+**Full Stack Development.** On the frontend, I build applications using **React.js**, modern **JavaScript (ES6+)**, HTML, CSS, and **Tailwind CSS**. I work across the complete application lifecycle — from responsive user interfaces and API integration to backend business logic and database persistence.
+
+**Internship Experience.** As a **Web Development Intern at DevineTech Solutions**, I designed RESTful APIs using **Node.js and Express.js**, integrated **React.js** components with backend services, and debugged performance issues across the frontend-backend integration — reducing API response time by 20%.
+
+**Academic Foundation.** I have a strong grounding in **Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks**, built through coursework and consistent problem-solving practice.
+
+<br/>
+
+<div align="center">
+
+### ◆ Open To
+
+<img src="https://img.shields.io/badge/Internships-Available-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Internships" />
+<img src="https://img.shields.io/badge/Backend%20Engineering-Spring%20Boot-6366F1?style=for-the-badge&labelColor=0D1117" alt="Backend" />
+<img src="https://img.shields.io/badge/Java%20Full%20Stack-Java%20%2B%20React-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Java Full Stack" />
+<br/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributions-4C1D95?style=for-the-badge&labelColor=0D1117" alt="OSS" />
+<img src="https://img.shields.io/badge/Technical%20Collaboration-Welcome-5B21B6?style=for-the-badge&labelColor=0D1117" alt="Collaboration" />
+<img src="https://img.shields.io/badge/Remote%20%7C%20Hybrid%20%7C%20Onsite-Flexible-6D28D9?style=for-the-badge&labelColor=0D1117" alt="Work Mode" />
+
+</div>
+
+---
+
+<h2 align="center">◆ Tech Stack</h2>
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,py,js,html,css,mysql&theme=dark" alt="Languages" />
+
+<br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" alt="Frontend" />
+
+<br/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,maven&theme=dark" alt="Backend" />
+
+<br/>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,idea,vscode&theme=dark" alt="Tools" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Spring-0D1117?style=flat-square&logo=spring&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Spring%20MVC-0D1117?style=flat-square&logo=spring&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-0D1117?style=flat-square&logo=spring&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Hibernate-0D1117?style=flat-square&logo=hibernate&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logo=fastapi&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/JavaScript%20ES6%2B-0D1117?style=flat-square&logo=javascript&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Maven-0D1117?style=flat-square&logo=apachemaven&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Agile-0D1117?style=flat-square&logo=jira&logoColor=A78BFA" />
+
+</div>
+
+---
+
+<h2 align="center">◆ Education</h2>
+
+<div align="center">
+
+| Institute | Degree | CGPA | Duration |
+| :--- | :--- | :---: | :---: |
+| **Sinhgad Academy of Engineering, Pune** | B.E. – Computer Engineering | 9.086 | 2023 – 2027 |
+
+</div>
+
+**Relevant Coursework:** Data Structures & Algorithms (DSA) · Operating Systems · Object-Oriented Programming (OOP) · Computer Networks · Database Management System (DBMS) · Artificial Intelligence · Software Engineering · Software Project Management
+
+---
+
+<h2 align="center">◆ Featured Projects</h2>
+
+<br/>
+
+<details>
+<summary><b>◈ &nbsp;Job Portal & Recruitment System</b> &nbsp;—&nbsp; <i>Full-stack recruitment platform</i></summary>
+
+<br/>
+
+A full-stack Job Portal built with Java, Spring Boot, React.js, and MySQL, featuring secure REST APIs, JWT authentication, role-based access, job search, application tracking, and recruiter dashboards.
+
+<br/>
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | Java · Spring Boot · React.js · MySQL · REST APIs |
+| **Security** | JWT authentication · role-based access control |
+| **Features** | Job search · application tracking · recruiter dashboards |
+| **Focus** | Recruitment workflow · candidate management · job management |
+
+<br/>
+
+**Engineering Narrative.** The application follows a layered architecture where controllers handle HTTP requests, services contain business logic, and repositories manage persistence, with JWT-based authentication securing access across candidate, recruiter, and admin roles.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>◈ &nbsp;Task Management REST API</b> &nbsp;—&nbsp; <i>Java Spring Boot backend application</i></summary>
+
+<br/>
+
+A scalable Task Management REST API developed using Spring Boot, Hibernate, and MySQL with complete CRUD operations and input validation.
+
+<br/>
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | Java · Spring Boot · REST APIs · Hibernate · MySQL · Maven · Postman |
+| **Features** | CRUD operations · input validation · RESTful endpoint design |
+| **Testing** | Documented and tested endpoints using Postman |
+| **Structure** | Clean Maven-based project structure |
+
+<br/>
+
+**Engineering Narrative.** The project focuses on developing maintainable REST APIs using Spring Boot and Hibernate, following RESTful design principles with endpoints documented and verified through Postman.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>◈ &nbsp;Expense Tracker</b> &nbsp;—&nbsp; <i>Full-stack expense management application</i></summary>
+
+<br/>
+
+A full-stack Expense Tracker built using Java, Spring Boot, React.js, and MySQL, implementing REST APIs, CRUD operations, and secure data persistence with Spring Data JPA and Hibernate.
+
+<br/>
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | Java · Spring Boot · Spring Data JPA · Hibernate · MySQL · React.js · REST APIs · Maven |
+| **Features** | Add/update/delete expenses · REST APIs · CRUD operations |
+| **Frontend** | React.js · responsive UI |
+| **Persistence** | Spring Data JPA · Hibernate · MySQL |
+
+<br/>
+
+**Engineering Narrative.** The project demonstrates full-stack development by connecting a React.js frontend with a Spring Boot backend, using Spring Data JPA and Hibernate for secure, reliable data persistence.
+
+</details>
+
+---
+
+<h2 align="center">◆ Internship Experience</h2>
+
+<br/>
+
+### Web Development Intern
+
+**DevineTech Solutions · Pune, Maharashtra**
+
+`January 2026`
+
+**Scope of Work**
+
+- Designed and developed **RESTful APIs using Node.js and Express.js**, enabling dynamic data exchange between frontend and backend systems
+- Integrated **React.js** components with backend REST APIs, ensuring seamless data flow and consistent state management across the application
+- Debugged critical performance issues across frontend-backend integration, **reducing API response time by 20%** and improving overall application stability and reliability
+
+**Skills**
+
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/REST%20API%20Design-0D1117?style=flat-square&logo=fastapi&logoColor=A78BFA" />
+
+---
+
+<h2 align="center">◆ Achievements & Extracurricular</h2>
+
+<div align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| **Naukri Campus Coding Challenge** | Solved algorithmic problems under timed constraints (September 2025) |
+| **Spring Boot & REST API Workshop** | Hands-on training in RESTful service development (January 2026) |
+| **Internship — DevineTech Solutions** | Built REST APIs and integrated React.js front-ends; improved API response time by 20% |
+| **Database Integration** | Worked with MySQL and PostgreSQL for application data management |
+| **DSA Practice** | Completed Data Structures & Algorithms training in Java with regular problem-solving practice |
+| **Data Analytics** | Completed the Deloitte Australia Data Analytics Job Simulation through Forage |
+
+</div>
+
+---
+
+<h2 align="center">◆ Certifications</h2>
+
+<div align="center">
+
+### Udemy
+
+<a href="https://github.com/HarshvardhanPatil4700">
+  <img src="https://img.shields.io/badge/Spring%20Boot%204,%20Spring%207%20%26%20Hibernate%20for%20Beginners-Chad%20Darby-7C3AED?style=for-the-badge&labelColor=0D1117&logo=springboot&logoColor=A78BFA" alt="Spring Boot" />
+</a>
+
+<br/>
+
+<a href="https://github.com/HarshvardhanPatil4700">
+  <img src="https://img.shields.io/badge/The%20Complete%20JavaScript%20Course%202025-Udemy-6366F1?style=for-the-badge&labelColor=0D1117&logo=javascript&logoColor=A78BFA" alt="JavaScript" />
+</a>
+
+<br/><br/>
+
+### Take U Forward (TUF)
+
+<a href="https://github.com/HarshvardhanPatil4700">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms%20in%20Java-Take%20U%20Forward-8B5CF6?style=for-the-badge&labelColor=0D1117&logo=openjdk&logoColor=A78BFA" alt="DSA Java" />
+</a>
+
+<br/><br/>
+
+### Forage
+
+<a href="https://github.com/HarshvardhanPatil4700">
+  <img src="https://img.shields.io/badge/Deloitte%20Data%20Analytics%20Job%20Simulation-September%202026-4C1D95?style=for-the-badge&labelColor=0D1117&logo=deloitte&logoColor=A78BFA" alt="Deloitte Forage" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus%20Areas-Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Full%20Stack%20%C2%B7%20DSA%20%C2%B7%20Analytics-5B21B6?style=flat-square&labelColor=0D1117" alt="Focus" />
+
+</div>
+
+---
+
+<h2 align="center">◆ Coding Profiles</h2>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/harshpatil4700/">
+  <img src="https://img.shields.io/badge/LEETCODE-PROBLEM%20SOLVING-7C3AED?style=for-the-badge&labelColor=0D1117&logo=leetcode&logoColor=A78BFA" height="42" alt="LeetCode" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.geeksforgeeks.org/profile/harshpatykkf">
+  <img src="https://img.shields.io/badge/GEEKSFORGEEKS-DSA%20PRACTICE-6366F1?style=for-the-badge&labelColor=0D1117&logo=geeksforgeeks&logoColor=A78BFA" height="42" alt="GeeksforGeeks" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HACKERRANK-PROFILE-8B5CF6?style=for-the-badge&labelColor=0D1117&logo=hackerrank&logoColor=A78BFA" height="42" alt="HackerRank" />
+
+</div>
+
+---
+
+<h2 align="center">◆ GitHub Analytics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshvardhanPatil4700&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=7C3AED&ring_color=8B5CF6" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshvardhanPatil4700&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshvardhanPatil4700&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
+
+</div>
+
+---
+
+<h2 align="center">◆ GitHub Trophies</h2>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=HarshvardhanPatil4700&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<h2 align="center">◆ Contribution Activity</h2>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshvardhanPatil4700&bg_color=0D1117&color=A78BFA&line=7C3AED&point=8B5CF6&area_color=4C1D95&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+
+</div>
+
+---
+
+<h2 align="center">◆ Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img width="98%" alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<h2 align="center">◆ Current Focus</h2>
+
+```yaml
+harshvardhan_patil:
+  role: "Java Full Stack Developer | B.E. Computer Engineering (2023 - 2027)"
+  location: "Pune, Maharashtra, India"
+  cgpa: 9.086
+
+  primary_stack:
+    - "Java"
+    - "Spring Boot"
+    - "Spring MVC"
+    - "Spring Data JPA"
+    - "Hibernate"
+    - "REST APIs"
+    - "React.js"
+    - "JavaScript"
+    - "MySQL"
+    - "PostgreSQL"
+
+  internship:
+    - "Web Development Intern @ DevineTech Solutions (Jan 2026)"
+    - "Built REST APIs with Node.js & Express.js"
+    - "Integrated React.js with backend services"
+    - "Reduced API response time by 20%"
+
+  building:
+    - "Job Portal & Recruitment System (Spring Boot + React + MySQL)"
+    - "Task Management REST API (Spring Boot + Hibernate)"
+    - "Expense Tracker (Spring Boot + React.js + MySQL)"
+
+  coursework:
+    - "Data Structures & Algorithms"
+    - "Object-Oriented Programming"
+    - "Database Management Systems"
+    - "Operating Systems"
+    - "Computer Networks"
+    - "Artificial Intelligence"
+    - "Software Engineering"
+
+  open_to:
+    - "Java Full Stack Developer roles"
+    - "Java Developer roles"
+    - "Spring Boot Developer roles"
+    - "Backend Developer roles"
+    - "Software Engineering internships"
+
+  engineering_principles:
+    - "Clean and maintainable code"
+    - "Object-oriented design"
+    - "API-first development"
     - "Continuous learning"
+```
